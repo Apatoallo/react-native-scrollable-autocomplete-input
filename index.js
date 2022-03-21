@@ -107,9 +107,7 @@ AutocompleteInput.defaultProps = {
 };
 
 const border = {
-  borderColor: '#b9b9b9',
-  borderRadius: 1,
-  borderWidth: 1,
+  
 };
 
 const androidStyles = {
@@ -122,7 +120,7 @@ const androidStyles = {
   },
   list: {
     ...border,
-    backgroundColor: 'white',
+    backgroundColor: '#E50914',
     borderTopWidth: 0,
     margin: 10,
     marginTop: 0,
