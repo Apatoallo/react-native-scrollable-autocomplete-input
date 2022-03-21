@@ -27,9 +27,9 @@
   "author": "Semih Koc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrlaessig/react-native-autocomplete-input/issues"
+    "url": "https://github.com/apatoallo/react-native-scrollable-autocomplete-input/issues"
   },
-  "homepage": "https://github.com/mrlaessig/react-native-autocomplete-input#readme",
+  "homepage": "https://github.com/apatoallo/react-native-scrollable-autocomplete-input#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "babel-jest": "^26.6.3",
